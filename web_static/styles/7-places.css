@@ -1,0 +1,36 @@
+.places{
+    position: absolute;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.articlesuite{
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: #ff5a5f solid 1px;
+    border-radius: 4px;
+    position: relative;
+    left: 240px;
+}
+.article{
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: #ff5a5f solid 1px;
+    border-radius: 4px;
+    margin-top: -1%;
+    /* margin-top: 10%; */
+    /* display: flex;
+    justify-content: center; */
+}
+.articlename{
+    font-size: 30px;
+    text-align: center;
+    
+}
