@@ -1,0 +1,10 @@
+.filters{
+    background-color: white;
+    height: 70px;
+    width: 100%;
+    border: 1px solid #DDDDDD;
+    position: relative;
+    /* display: flex; */
+    /* flex: 1; */
+    /* justify-content: center; */
+}

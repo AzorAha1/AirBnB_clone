@@ -1,0 +1,34 @@
+body{
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    /* display: flex;
+    flex-direction: column; */
+}
+.container{
+    max-width: 1000px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    /* flex: 1; */
+    /* padding-left: 20%;
+    padding-right: 15%; */
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+.button{
+    font-size: 18px;
+    height: 48px;
+    width: 20%;
+    background-color: #ff5a5f;
+    border-radius: 4px;
+    color: #ffffff;
+    right: 30px;
+    position: absolute;
+    top:50%;
+    transform: translateY(-50%);
+   
+}
+.button:hover{
+    opacity: 0.09;
+}
